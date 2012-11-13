@@ -30,6 +30,8 @@ A collection of ASCII art I use frequently to express emotion/troll
     (╯°□°）╯︵ ǝpou  
     (╯°□°）╯︵ uǝɥs  
 
+    Note: the ones below here require a variable width font to display correctly.
+
     ....................../´¯/) 
     ....................,/¯../ 
     .................../..../ 
